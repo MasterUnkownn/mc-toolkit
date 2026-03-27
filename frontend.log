@@ -1,0 +1,11 @@
+
+> app@0.0.0 dev
+> vite
+
+
+  VITE v8.0.3  ready in 329 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+6:55:53 PM [vite] (client) hmr update /src/pages/datapack/Recipes.jsx
+6:56:15 PM [vite] (client) hmr update /src/pages/datapack/Recipes.jsx
